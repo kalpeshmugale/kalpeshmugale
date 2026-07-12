@@ -54,39 +54,35 @@ const kalpesh = {
 
 ---
 
-## 🛠️ Tech Stack
+Analytics & Visualization
 
-### Analytics & Visualization
 <p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  &nbsp;
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Qlik%20Sense-009845?style=flat-square&logo=qlik&logoColor=white&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Alteryx-0078C8?style=flat-square&logo=alteryx&logoColor=white&labelColor=0a2a3a" height="46" />
 </p>
+Databases & Platforms
 
-### Databases & Platforms
 <p>
   <img src="https://img.shields.io/badge/-Microsoft%20SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=0a2a3a" height="46" />
 </p>
+Supply Chain Planning Systems
 
-### Supply Chain Planning Systems
 <p>
   <img src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Kinaxis-6E2C8C?style=flat-square&logoColor=white&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-o9%20Solutions-1B2A4A?style=flat-square&logoColor=white&labelColor=0a2a3a" height="46" />
 </p>
+Cloud
 
-### Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" />
-  &nbsp;
+  <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white&labelColor=0a2a3a" height="46" />
 </p>
-
 ---
 
 ## 🎓 Education & Background
