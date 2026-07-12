@@ -60,7 +60,7 @@ const kalpesh = {
 <p>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0a2a3a" height="46" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Qlik%20Sense-009845?style=flat-square&logo=qlik&logoColor=white&labelColor=0a2a3a" height="46" />
