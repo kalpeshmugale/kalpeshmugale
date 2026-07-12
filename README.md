@@ -58,7 +58,8 @@ const kalpesh = {
 
 ### Analytics & Visualization
 <p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0a2a3a" height="46" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  &nbsp;
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0a2a3a" height="46" />
@@ -81,7 +82,8 @@ const kalpesh = {
 
 ### Cloud
 <p>
-  <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0a2a3a" height="46" />
+  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" />
+  &nbsp;
   <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white&labelColor=0a2a3a" height="46" />
 </p>
 
