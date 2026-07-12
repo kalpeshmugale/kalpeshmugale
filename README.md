@@ -84,7 +84,7 @@ const kalpesh = {
 <p>
   <img src="https://skillicons.dev/icons?i=gcp&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white&labelColor=0a2a3a" height="46" />
+  <img src="https://skillicons.dev/icons?i=databricks&theme=dark" />
 </p>
 
 ---
