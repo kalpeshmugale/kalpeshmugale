@@ -64,7 +64,7 @@ const kalpesh = {
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Qlik%20Sense-009845?style=flat-square&logo=qlik&logoColor=white&labelColor=0a2a3a" height="46" />
-  <img src="https://logo.clearbit.com/alteryx.com" height="46" />
+  <img src="https://img.shields.io/badge/-Alteryx-009845?style=flat-square&logo=Alteryx&logoColor=white&labelColor=0a2a3a" height="46" />
 </p>
 
 ### Databases & Platforms
@@ -76,7 +76,7 @@ const kalpesh = {
 ### Supply Chain Planning Systems
 <p>
   <img src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white&labelColor=0a2a3a" height="46" />
-  <img src="https://img.shields.io/badge/-Kinaxis-6E2C8C?style=flat-square&logoColor=white&labelColor=0a2a3a" height="46" />
+  <img src="https://img.shields.io/badge/-Kinaxis-6E2C8C?style=flat-square&logoColor=white&labelColor=0a2a3a" />
   <img src="https://img.shields.io/badge/-o9%20Solutions-1B2A4A?style=flat-square&logoColor=white&labelColor=0a2a3a" height="46" />
 </p>
 
@@ -84,7 +84,7 @@ const kalpesh = {
 <p>
   <img src="https://skillicons.dev/icons?i=gcp&theme=dark" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=databricks&theme=dark" />
+  <img src="https://img.shields.io/badge/-Databricks-6E2C8C?style=flat-square&logoColor=white&labelColor=0a2a3a" />
 </p>
 
 ---
