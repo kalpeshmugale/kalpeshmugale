@@ -64,7 +64,7 @@ const kalpesh = {
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0a2a3a" height="46" />
   <img src="https://img.shields.io/badge/-Qlik%20Sense-009845?style=flat-square&logo=qlik&logoColor=white&labelColor=0a2a3a" height="46" />
-  <img src="https://logo.clearbit.com/alteryx.com" />
+  <img src="https://logo.clearbit.com/alteryx.com" height="46" />
 </p>
 
 ### Databases & Platforms
